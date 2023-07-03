@@ -1,6 +1,6 @@
 # PlotlyDashboards
 Dashboards using Plotly in Python
-![image](https://github.com/rdhawan4/PlotlyDashboards/assets/112804900/03e379a7-0b67-4fda-987b-cc22660f7d9e)
+![image](https://github.com/rdhawan4/PlotlyDashboards/assets/112804900/4e4f8872-30eb-426e-84e5-97a90623f845)
 
 The goal of this project is to create an interactive dashboard that provides insights into data science job salaries across the world. The dashboard will allow users to filter and search for specific locations, job experience levels, and company sizes, enabling them to explore and analyze salary trends based on their specific criteria.
 
